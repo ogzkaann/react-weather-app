@@ -1,7 +1,7 @@
 # Basic React Project With Weather Api
 
 <a target="_blank" rel="noopener noreferrer" href="/img/ss.JPG"><img src="img/ss.JPG" alt="github" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="/img/ss2.JPG"><img src="img/ss2.JPG" alt="github" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/img/ss2.JPG"><img src="img/ss2.JPG" alt="github" style="max-width: 100%;"></a> 
 
 ## Available Scripts
 
