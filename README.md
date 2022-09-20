@@ -1,7 +1,8 @@
 # Basic React Project With Weather Api
 
-<a target="_blank" rel="noopener noreferrer" href="/img/ss.JPG"><img src="img/ss.JPG" alt="github" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="/img/ss0.JPG"><img src="img/ss0.JPG" alt="github" style="max-width: 100%;"></a> 
+<p align="center">
+  <img src="/img/React-App.gif" alt="React-App-Gif">
+</p>
 
 ## Available Scripts
 
