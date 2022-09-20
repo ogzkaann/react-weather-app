@@ -4,6 +4,9 @@
   <img src="/img/React-App.gif" alt="React-App-Gif">
 </p>
 
+![Alt Text](https://github.com/ogzkaann/react-weather-app/blob/master/img/React-App.gif)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
