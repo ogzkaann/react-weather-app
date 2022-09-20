@@ -1,10 +1,10 @@
 # Basic React Project With Weather Api
 
 <p align="center">
-  <img src="/img/React-App.gif" alt="React-App-Gif">
+  ![React-App-Gif](https://github.com/ogzkaann/react-weather-app/blob/master/img/React-App.gif)
 </p>
 
-![Alt Text](https://github.com/ogzkaann/react-weather-app/blob/master/img/React-App.gif)
+
 
 
 ## Available Scripts
